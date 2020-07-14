@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
+title:  "행거도어 관련 상품 추천"
+author: Anddy
+categories: [ 가구, 인테리어 ]
+tags: [행거도어, 상세도 , dwg, 부속, 제작]]
 image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "쿠팡의 행거도어 관련 상품이며 고객 선호도가 높은 제품 중 하나입니다"
 featured: true
 hidden: true
 rating: 4.5
